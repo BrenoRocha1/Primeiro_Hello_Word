@@ -1,0 +1,6 @@
+aula 1
+
+1- tudo q começa com mauisculo é classe
+2- javac HellowWord.java para a execução de umcerto arquivo
+3- javac compila
+4- java espera uma classe por isso nao tem o ".java" no final
